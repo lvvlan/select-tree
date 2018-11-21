@@ -1,8 +1,6 @@
-https://img.shields.io/badge/select--tree-npm-orange.svg
-
 # Vue组件：select-tree
 
-[![npm](https://img.shields.io/badge/select--tree-npm-orange.svg)](https://www.npmjs.com/package/select-tree)
+[![npm](https://img.shields.io/badge/npm-0.1.1-orange.svg)](https://www.npmjs.com/package/select-tree)
 
 一个 select-tree Vue组件，基于element-ui
 
@@ -69,6 +67,10 @@ handleChange (v) {
 } 
 
 ```
+
+## demo
+
+[https://codesandbox.io/s/50qlqq166x](https://codesandbox.io/s/50qlqq166x)
 
 ## 许可证
 

@@ -1,6 +1,6 @@
 {
   "name": "select-tree",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "select-tree",
   "main": "dist/select-tree.umd.min.js",
   "scripts": {
@@ -14,6 +14,14 @@
     "vue",
     "vue-component"
   ],
+  "bugs": {
+    "url": "https://github.com/lvvlan/select-tree/issues"
+  },
+  "homepage": "https://github.com/lvvlan/select-tree#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvvlan/select-tree.git"
+  },
   "author": "msupercoder",
   "license": "MIT",
   "dependencies": {
