@@ -1,0 +1,23 @@
+{
+  "name": "select-tree",
+  "version": "0.1.0",
+  "description": "select-tree",
+  "main": "dist/select-tree.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "select",
+    "tree",
+    "select-tree",
+    "tree-select",
+    "vue",
+    "vue-component"
+  ],
+  "author": "msupercoder",
+  "license": "MIT",
+  "dependencies": {
+    "element-ui": "^2.4.10",
+    "vue": "^2.5.17"
+  }
+}
